@@ -1,0 +1,38 @@
+{
+  "name": "musical_tune_bot",
+  "version": "11.4.2",
+  "description": "multifuncrion bot",
+  "main": "tune.js",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "cpu-stat": "^2.0.1",
+    "dbl-api": "^1.2.1",
+    "dblapi.js": "^2.3.0",
+    "dblposter": "^1.3.1",
+    "dboats-api": "^1.0.1",
+    "discord-economy": "^1.1.5",
+    "discord-leveling": "^1.0.1",
+    "discord.js": "^11.4.2",
+    "erlpack": "^0.1.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "libsodium-wrappers": "^0.7.3",
+    "node-opus": "^0.2.9",
+    "node-superfetch": "^0.1.9",
+    "opusscript": "^0.0.6",
+    "quick.db": "^7.0.0-b16",
+    "quick.hook": "^1.5.1",
+    "sequelize": "^4.41.2",
+    "simple-youtube-api": "^5.1.1",
+    "sqlite": "^3.0.0",
+    "superagent": "^4.0.0",
+    "uws": "^9.148.0",
+    "ytdl-core": "^0.28.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R4A ϟ• Rajat#8525",
+  "license": "EPL-2.0"
+}
